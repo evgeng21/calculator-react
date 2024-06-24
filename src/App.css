@@ -25,10 +25,20 @@ h3 {
   color: red;
 }
 
-h2 {
+.result {
   border: solid 1px black;
   display: block;
   margin: 0, auto;
+  text-align: right;
+  padding: 10px;
+}
+
+h2 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
 }
 
 .symbols {
